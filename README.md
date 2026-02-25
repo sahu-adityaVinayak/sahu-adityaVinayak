@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=CS+%26+Telecom+Undergrad+%40+SRM+IST;Machine+Learning+%7C+Deep+Learning+%7C+DSP;5G+%26+Signal+Processing+Researcher;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-vinayak-sahu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sahu-909592353)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaaasitis55@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahu-adityaVinayak)
 
@@ -126,7 +126,7 @@ me.say_hi()
 
 > *"The best way to predict the future is to build it."*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-vinayak-sahu)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sahu-909592353)
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaaasitis55@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sahu-adityaVinayak&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
