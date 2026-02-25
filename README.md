@@ -2,7 +2,7 @@
 
 # Hey there, I'm Aditya Vinayak Sahu 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=CSE+Undergrad+%40+SRM+IST+%F0%9F%8E%93;Aspiring+MERN+Full+Stack+Developer+%F0%9F%9A%80;Learning+AI+%26+ML+%F0%9F%A4%96;DSA+Problem+Solver+%F0%9F%A7%A9;Building+cool+things+one+commit+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=CSE+Undergrad+%40+SRM+IST+%F0%9F%8E%93;MERN+Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;DSA+Problem+Solver+%F0%9F%A7%A9;Building+cool+things+one+commit+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sahu-909592353)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaaasitis55@gmail.com)
@@ -16,14 +16,15 @@
 
 ```javascript
 const aditya = {
-  name:       "Aditya Vinayak Sahu",
-  education:  "B.Tech CSE @ SRM Institute of Science & Technology",
-  role:       "Aspiring MERN Full Stack Developer",
-  learning:   ["Artificial Intelligence", "Machine Learning", "DSA"],
-  stack:      ["MongoDB", "Express.js", "React.js", "Node.js"],
-  languages:  ["JavaScript", "Python", "C++", "HTML", "CSS"],
-  location:   "India 🇮🇳",
-  funFact:    "I debug with console.log and I'm not ashamed 😄"
+  name:        "Aditya Vinayak Sahu",
+  education:   "B.Tech CSE @ SRM Institute of Science & Technology",
+  role:        "MERN Full Stack Developer",
+  learning:    ["Artificial Intelligence", "Machine Learning"],
+  stack:       ["MongoDB", "Express.js", "React.js", "Node.js"],
+  languages:   ["JavaScript", "Python", "C++", "HTML", "CSS"],
+  interests:   ["Web Development", "AI/ML", "DSA", "Open Source"],
+  location:    "India 🇮🇳",
+  funFact:     "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
@@ -31,11 +32,11 @@ const aditya = {
 
 ## 🚀 What I'm Up To
 
-- 🌐 Building full-stack web apps with the **MERN Stack**
-- 🤖 Learning **Artificial Intelligence & Machine Learning**
-- 🧩 Solving **DSA problems** daily to sharpen problem-solving skills
-- 📚 Exploring **React.js**, **Node.js**, and **REST APIs**
-- 🎯 Open to **collaborations**, **internships**, and **open-source contributions**
+- 🌐 Building full-stack web apps with the **MERN Stack** (MongoDB, Express, React, Node)
+- 🤖 Diving into **Artificial Intelligence & Machine Learning**
+- 🧩 Solving **Data Structures & Algorithm** problems daily
+- 📚 Sharpening skills in **React.js**, **REST APIs** & **System Design**
+- 🎯 Open to **internships**, **collaborations** & **open-source contributions**
 
 ---
 
@@ -59,7 +60,7 @@ const aditya = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / ML (Learning)**
+**AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -115,14 +116,14 @@ const aditya = {
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Skill Proficiency
 
 ```
-🌐 MERN Stack Development    █████████░░░░░  65%  🔥 Active
-🧩 Data Structures & Algo    ████████░░░░░░  60%  🔥 Active
-🤖 AI & Machine Learning      █████░░░░░░░░░  35%  📖 Learning
-⚛️  React.js                  ████████░░░░░░  55%  📖 Learning
-🖥️  Node.js & Express         ██████░░░░░░░░  45%  📖 Learning
+🌐 MERN Stack (MongoDB+Express+React+Node)  █████████████░  90%  ✅ Proficient
+🧩 Data Structures & Algorithms            █████████░░░░░  65%  🔥 Active
+⚛️  React.js & Frontend                     ███████████░░░  80%  ✅ Proficient
+🖥️  Node.js & Express (Backend)             ███████████░░░  80%  ✅ Proficient
+🤖 AI & Machine Learning                    ██████░░░░░░░░  45%  📖 Learning
 ```
 
 ---
